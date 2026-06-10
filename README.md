@@ -13,11 +13,17 @@ alt="Typing SVG"
   <a href="https://github.com/JosueOchoaFigueroa">
     <img src="https://img.shields.io/badge/GitHub-JosueOchoaFigueroa-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://josue-ochoa-figueroa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/josue-ochoa-figueroa-2b1989406/">
     <img src="https://img.shields.io/badge/LinkedIn-Josue%20Ochoa%20Figueroa-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:josueochoafigueroa20@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/+526331030327">
+    <img src="https://img.shields.io/badge/Telegram-%2B52%20633%20103%200327-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
@@ -39,7 +45,9 @@ I specialize in building scalable backend systems, full-stack web applications, 
 * 🧠 Experienced with **Node.js, Python, React, Next.js, AWS, Docker, Kubernetes, GraphQL, and microservices**
 * ⚡ Passionate about **performance optimization, automation, and clean architecture**
 * 🌎 Based in **Agua Prieta, Mexico**
-* 📫 Reach me at **[josueochoafigueroa20@gmail.com](mailto:josueochoafigueroa20@gmail.com)**
+* 🌐 Portfolio: **https://josue-ochoa-figueroa.vercel.app/**
+* 📱 Telegram: **+52 633 103 0327**
+* 📫 Email: **[josueochoafigueroa20@gmail.com](mailto:josueochoafigueroa20@gmail.com)**
 
 ---
 
@@ -55,6 +63,8 @@ const josue = {
   ],
   experience: "8+ years",
   location: "Agua Prieta, Mexico",
+  portfolio: "https://josue-ochoa-figueroa.vercel.app/",
+  telegram: "+52 633 103 0327",
   focus: [
     "Backend Development",
     "Full-Stack Development",
@@ -291,12 +301,20 @@ Bachelor's Degree in Computer Science
   <img src="https://img.shields.io/badge/GitHub-JosueOchoaFigueroa-181717?style=for-the-badge&logo=github" />
 </a>
 
+<a href="https://josue-ochoa-figueroa.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/josue-ochoa-figueroa-2b1989406/">
   <img src="https://img.shields.io/badge/LinkedIn-Josue%20Ochoa%20Figueroa-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:josueochoafigueroa20@gmail.com">
   <img src="https://img.shields.io/badge/Email-josueochoafigueroa20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://t.me/+526331030327">
+  <img src="https://img.shields.io/badge/Telegram-%2B52%20633%20103%200327-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </div>
